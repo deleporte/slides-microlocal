@@ -1,0 +1,21 @@
+
+* Exposés de vulgarisation d'une heure
+
+** <2018-05-03 jeu.> Séminaire doc Strasbourg
+
+** <2018-05-14 lun.> Séminaire doc Orsay
+
+* Sujet : analyse semiclassique
+** Mécanique classique et mécanique quantique, principe de Huygens (20')
+*** Rappels de mécanique classique
+*** Lumière, électrons : ondes ou corpuscules ?
+*** Les principes de la mécanique quantique
+** Opérateurs à noyau, analyse microlocale (20')
+*** Transformée de Fourier et opérateurs différentiels
+*** Résolution intégrale des équations de la chaleur, des ondes, de Schrodinger
+*** Opérateurs pseudo-différentiels et Fourier intégraux
+** Applications mathématiques (20')
+*** Thm d'Egorov
+*** Th de Tian--Zelditch
+*** Thm de l'indice et déformation du complexe de Morse.
+
